@@ -7,7 +7,7 @@ Aquí debajo les dejo una lista de algunos libros que están a la venta. Cualqui
 Gracias!
 
 | Nombre                                                              | Idioma  | Precio |                                     Foto                                     | Anotaciones                             | Estado     |
-|---------------------------------------------------------------------|---------|-------:|:----------------------------------------------------------------------------:|-----------------------------------------|------------|
+|---------------------------------------------------------------------|:---------:|-------:|:----------------------------------------------------------------------------:|-----------------------------------------|------------|
 | The Walking Dead Vol 2: Miles Behind Us                             | Inglés  |  $1500 |               [The Walking Dead](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/the_walking_dead.jpg)               |                                         | Disponible |
 | The Walking Dead Vol 3: Safety Behind Bars                          | Inglés  |  $1500 |                                                                              |                                         | Disponible |
 | The Canterbury Tales (edición original spelling) - Geoffrey Chaucer | Inglés  |  $2000 |           [The Canterbury Tales](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/the_canterbury_tales.jpg)           |                                         | Disponible |
