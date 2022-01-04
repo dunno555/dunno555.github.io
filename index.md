@@ -1,10 +1,12 @@
-## Venta de libros
+# Venta de objetos
 
 Hola 👋🏻
 
-Aquí debajo les dejo una lista de algunos libros que están a la venta. Cualquier duda o consulta, me la pueden hacer directamente por DM
+Aquí debajo les dejo una lista de algunos objetos que están a la venta. Cualquier duda o consulta, me la pueden hacer directamente por DM
 
 Gracias!
+
+## Libros
 
 | Nombre                                                              | Idioma  | Precio |                                     Foto                                     | Anotaciones                             | Estado     |
 |---------------------------------------------------------------------|:---------:|-------:|:----------------------------------------------------------------------------:|-----------------------------------------|------------|
@@ -25,6 +27,16 @@ Gracias!
 | Yo, Robot - Isaac Asimov                                            | Español |  $450 |                       [Yo, Robot](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/yo_robot.jpg)                      | Tapa dura                               | Disponible |
 | Valfierno - Martín Caparrós                                         | Español |  $450 |                      [Valfierno](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/valfierno.jpg)                      |                                         | Disponible |
 | Primavera con una esquina rota - Mario Benedetti                    | Español |   $300 | [Primavera con una esquina rota](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/primavera_con_una_esquina_rota.jpg) | Tapa dura                               | Disponible |
-| No Lo Testeamos Ni Un Poco (Base) + Expansión Kinético + Expansión Picante + Micro Expansión (Juego de cartas)                    | Español |   $600 | [No Lo Testamos Ni Un Poco](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/no_lo_testeamos_ni_un_poco.jpg) | Juegos de cartas. Fue usado dos veces. Más info sobre el juego [acá](https://www.bureaudejuegos.com/productos/nltn1p/)                               | Disponible |
+
+## Juegos de mesa
+
+| Nombre                                                              | Idioma  | Precio |                                     Foto                                     | Anotaciones                             | Estado     |
+|---------------------------------------------------------------------|:---------:|-------:|:----------------------------------------------------------------------------:|-----------------------------------------|------------|
+| No Lo Testeamos Ni Un Poco (Base) + Expansión Kinético + Expansión Picante + Micro Expansión (Bureau De Juegos)                    | Español |   $600 | [No Lo Testamos Ni Un Poco](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/no_lo_testeamos_ni_un_poco.jpg) | Juegos de cartas. Fue usado dos veces. Más info sobre el juego [acá](https://www.bureaudejuegos.com/productos/nltn1p/)                               | Disponible |
+| El Memorioso (Maldón)                   | Español |   $1500 | [El Memorioso](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/no_lo_testeamos_ni_un_poco.jpg) | Fue jugado dos veces. Más info [acá](https://maldon.com.ar/blog/projects/elmemorioso/)                               | Disponible |
+| El Erudito (Maldón)                   | Español |   $1500 | [El Erudito](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/no_lo_testeamos_ni_un_poco.jpg) | Fue jugado muy pocas veces. Algunas tarjetas tienen un desgaste mínimo. Más info [acá](https://maldon.com.ar/blog/projects/elerudito/)                               | Disponible |
+| El Juego de las Marcas (Magic Makers)                   | Español |   $700 | [El Juego de las Marcas](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/no_lo_testeamos_ni_un_poco.jpg) | Como nuevo                               | Disponible |
+
+
 
 **Nota**: Todo precio es charlable. Si eligen varios libros, el precio se modifica a su favor ya que se estarían llevando varios libros de la lista. Muchas gracias! 🙂
