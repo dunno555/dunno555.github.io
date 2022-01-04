@@ -26,7 +26,7 @@ Gracias!
 | La naranja mecánica - Anthony Burgess                               | Español |   $250 |            [La naranja mecánica](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/la_naranja_mecanica.jpg)            |                                         | Disponible |
 | Yo, Robot - Isaac Asimov                                            | Español |  $450 |                       [Yo, Robot](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/yo_robot.jpg)                      | Tapa dura                               | Disponible |
 | Valfierno - Martín Caparrós                                         | Español |  $450 |                      [Valfierno](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/valfierno.jpg)                      |                                         | Disponible |
-| Primavera con una esquina rota - Mario Benedetti                    | Español |   $300 | [Primavera con una esquina rota](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/primavera_con_una_esquina_rota.jpg) | Tapa dura                               | Vendido 🛑 |
+| Primavera con una esquina rota - Mario Benedetti                    | Español |   $300 | [Primavera con una esquina rota](https://raw.githubusercontent.com/dunno555/dunno555.github.io/main/assets/primavera_con_una_esquina_rota.jpg) | Tapa dura                               | <span style="color:red">Vendido</span> |
 
 ## Juegos de mesa
 
